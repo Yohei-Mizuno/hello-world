@@ -1,10 +1,6 @@
 # hello-world
 test
 
-<?php
-
-setcookie('value',100);
-?>
 <html>
     <body>
 <?php
