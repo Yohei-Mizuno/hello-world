@@ -1,6 +1,6 @@
-# hello-world
-test
-
+<?php
+setcookie('value',100);
+?>
 <html>
     <body>
 <?php
@@ -10,3 +10,4 @@ test
         <a href ="page2.php">ページ２へ</a>
     </body>
 </html>
+
